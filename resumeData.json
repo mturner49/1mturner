@@ -11,10 +11,11 @@
     "project":"https://medium.com/@1mturner",
     "address":{
       "city":"Atlanta",
-      "state":"GA"
+      "state":"GA",
+      "zipcode":"30318"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://github.com/mturner49",
+    "resumedownload":"https://drive.google.com/file/d/15uvSCTpEpmV45_xQME2IXB-IuOd837pq/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
