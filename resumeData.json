@@ -50,13 +50,13 @@
         "school":"Georgia State University",
         "degree":"MS Data Science and Analytics",
         "graduated":"May 2023",
-        "description":"Notable classes: Business Machine Learning • Data Programming • Deep Learning • Scalable Data Analytics • Data Mining • Project Mgmt • Data Mgmt for Analytics • Statistal Foundations • Predictive Analytics"
+        "description":"Business Machine Learning • Data Programming • Deep Learning • Scalable Data Analytics • Data Mining • Project Mgmt • Data Mgmt for Analytics • Statistal Foundations • Predictive Analytics"
       },
       {
         "school":"Georgia State University",
         "degree":"BBA Computer Information Systems",
         "graduated":"Dec 2017",
-        "description":"Notable classes: Big Data Analytics • Managing IT Projects • Database Mgmt Systems • Define & Innovate Business Processes • Business Intelligence"
+        "description":"Big Data Analytics • Managing IT Projects • Database Mgmt Systems • Define & Innovate Business Processes • Business Intelligence"
       }
     ],
     "work":[
@@ -70,6 +70,18 @@
         "company":"Slalom Build",
         "title":"Data Engineering Consultant",
         "years":"Nov 2019 - Jan 2022",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Equifax",
+        "title":"Data Engineering Consultant",
+        "years":"May 2019 - Nov 2019",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"The Home Depot",
+        "title":"Software Engineering Consultant",
+        "years":"Jan 2018 - May 2019",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
