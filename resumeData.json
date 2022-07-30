@@ -44,19 +44,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"A few of my top skills. Take a look at my resume above to view full list.",
     "education":[
       {
         "school":"Georgia State University",
         "degree":"MS Data Science and Analytics",
         "graduated":"May 2023",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Notable classes: Business Machine Learning • Data Programming • Deep Learning • Scalable Data Analytics • Data Mining • Project Mgmt • Data Mgmt for Analytics • Statistal Foundations • Predictive Analytics"
       },
       {
         "school":"Georgia State University",
         "degree":"BBA Computer Information Systems",
         "graduated":"Dec 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Notable classes: Big Data Analytics • Managing IT Projects • Database Mgmt Systems • Define & Innovate Business Processes • Business Intelligence"
       }
     ],
     "work":[
@@ -67,9 +67,9 @@
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
+        "company":"Slalom Build",
+        "title":"Data Engineering Consultant",
+        "years":"Nov 2019 - Jan 2022",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
