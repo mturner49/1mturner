@@ -70,7 +70,7 @@
         "company":"Slalom Build",
         "title":"Data Engineering Consultant",
         "years":"Nov 2019 - Jan 2022",
-        "description":"• Constructed an event-driven data pipeline utilizing AWS Lambda, AWS ECS, and AWS SNS that consumed parquet source files from S3 and created external tables that loaded their data mart in Snowflake daily \\n • Developed a lightweight, client-side download tool for authentication via Okta and downloading customer dataset output on demand using Python"
+        "description":"• Constructed an event-driven data pipeline utilizing AWS Lambda, AWS ECS, and AWS SNS that consumed parquet source files from S3 and created external tables that loaded their data mart in Snowflake daily \\n\\n• Developed a lightweight, client-side download tool for authentication via Okta and downloading customer dataset output on demand using Python"
       },
       {
         "company":"Equifax",
