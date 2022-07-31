@@ -11,7 +11,7 @@
     "address":{
       "city":"Atlanta",
       "state":"GA",
-      "zipcode":"30318"
+      "zip":"30318"
     },
     "website": "https://github.com/mturner49",
     "resumedownload":"https://drive.google.com/file/d/15uvSCTpEpmV45_xQME2IXB-IuOd837pq/view?usp=sharing",
@@ -70,48 +70,48 @@
         "company":"Slalom Build",
         "title":"Data Engineering Consultant",
         "years":"Nov 2019 - Jan 2022",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"• Constructed an event-driven data pipeline utilizing AWS Lambda, AWS ECS, and AWS SNS that consumed parquet source files from S3 and created external tables that loaded their data mart in Snowflake daily • Developed a lightweight, client-side download tool for authentication via Okta and downloading customer dataset output on demand using Python"
       },
       {
         "company":"Equifax",
         "title":"Data Engineering Consultant",
         "years":"May 2019 - Nov 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"• Developed Spring Batch application that allowed FICO’s Know-Your-Customer processes to consume Equifax’s vast data sources to provide real-time and batch solutions for customer assessment"
       },
       {
         "company":"The Home Depot",
-        "title":"Software Engineering Consultant",
+        "title":"Data Engineering Consultant",
         "years":"Jan 2018 - May 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"• Migrated Home Depot’s in-store sales data (~50 Terabytes) from Teradata to GCP using a number of technologies like Google App Engine, Google Pub/Sub, Google Dataflow, etc."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"90%"
+        "level":"95%"
       },
       {
         "name":"SQL",
         "level":"90%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"GCP Suite",
+        "level":"85%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
+        "name":"AWS Suite",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Snowflake",
+        "level":"80%"
       },
       {
-        "name":"JAVA",
+        "name":"R",
+        "level":"75%"
+      },
+      {
+        "name":"Deep Learning",
         "level":"80%"
       }
     ]
