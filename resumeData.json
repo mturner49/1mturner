@@ -17,23 +17,13 @@
     "resumedownload":"https://drive.google.com/file/d/16nQOp--E-Bc2bpuDNIP_HUZcOMgyCj6p/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/mturner55",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/1mturner",
         "className":"fa fa-instagram"
       },
       {
